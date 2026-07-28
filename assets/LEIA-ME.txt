@@ -1,0 +1,15 @@
+Coloque aqui dentro as imagens que você quer usar no site.
+
+Depois é só abrir o index.html num editor de texto e trocar os
+"src=..." das imagens que quiser substituir para apontar pra cá, por exemplo:
+
+  src="assets/nome-da-sua-imagem.jpg"
+
+Sugestão de nomes (na ordem em que as imagens aparecem na página):
+  hero-produto.jpg
+  produto-2.jpg
+  produto-3.jpg
+  ...
+
+Pode usar os nomes que preferir, contanto que o "src" no HTML bata
+com o nome do arquivo aqui dentro (maiúsculas/minúsculas importam).
